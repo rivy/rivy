@@ -1,0 +1,26 @@
+<!-- ref: <https://github.com/anuraghazra/github-readme-stats> -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rivy&show_icons=true)](https://github.com/rivy)
+
+<!-- [![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs?username=rivy&layout=compact&show_icons=true&hide_border=true)](https://github.com/rivy) -->
+
+<!-- look into WakaTime alternatives: CodeTime (https://app.software.com) and HakaTime (https://github.com/mujx/hakatime) -->
+<!-- [![CodeTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rivy&layout=compact)](https://app.software.com/dashboard/rivy) -->
+
+<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rivy&layout=default)](https://wakatime.com/@rivy) -->
+
+### Pinned
+
+[![git-changelog](https://github-readme-stats.vercel.app/api/pin/?username=rivy-go&show_owner=true&repo=git-changelog)](https://github.com/rivy-go/git-changelog)
+[![less](https://github-readme-stats.vercel.app/api/pin/?username=rivy&show_owner=false&repo=less)](https://github.com/rivy/less)
+[![OpenPDN](https://github-readme-stats.vercel.app/api/pin/?username=rivy&show_owner=false&repo=OpenPDN)](https://github.com/rivy/OpenPDN)
+[![scoop](https://github-readme-stats.vercel.app/api/pin/?username=rivy&show_owner=false&repo=scoop)](https://github.com/rivy/scoop)
+
+#### JS (User Scripts)
+
+[![markdown-render](https://github-readme-stats.vercel.app/api/pin/?username=rivy&show_owner=false&repo=js-user.markdown-render)](https://github.com/rivy/js-user.markdown-render)
+
+#### Perl
+
+[![Win32-CommandLine](https://github-readme-stats.vercel.app/api/pin/?username=rivy&show_owner=false&repo=perl.Win32-CommandLine)](https://github.com/rivy/perl.Win32-CommandLine)
+[![CI.AppVeyor.helpers-perl](https://github-readme-stats.vercel.app/api/pin/?username=rivy&show_owner=false&repo=CI.AppVeyor.helpers-perl)](https://github.com/rivy/CI.AppVeyor.helpers-perl)
